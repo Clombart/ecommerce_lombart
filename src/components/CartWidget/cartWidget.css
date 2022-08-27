@@ -1,0 +1,22 @@
+.cartButton {
+    border: none;
+    color: rgba(255, 255, 255, 0.963);
+    width: 2rem;
+    height: 2rem;
+}
+
+.counter {
+    width: 1.5rem;
+    height: 1.5rem;
+    display: inline-block !important;
+    background-color: #ffc107;
+    border-radius: 100%;
+    color: black;
+    position: relative !important;
+    top: 1.25rem;
+    left: -0.65rem;
+}
+
+.cartButton:hover {
+    color: rgba(240, 248, 255, 0.447);
+}

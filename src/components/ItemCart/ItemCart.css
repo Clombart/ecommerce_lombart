@@ -1,0 +1,25 @@
+.trashButton {
+    background-color: white;
+    border: none;
+    color: #ffc107;
+    width: 2rem;
+    height: 2rem;
+}
+
+.trashButton:hover {
+    color: white;
+    border-radius: 100%;
+    background-color: #ffc107;
+    border-color: #ffc107;
+    opacity: 50%;
+}
+
+.img {
+    width: 7rem !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .img {
+        width: 4rem !important;
+    }
+}

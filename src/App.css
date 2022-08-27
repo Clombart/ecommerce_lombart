@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none !important;
+}
+
+.App {
+  text-align: center;
+  font-family: 'Patrick Hand', cursive;
+  padding: 0 !important;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-width: 100vw;
+  font-size: calc(8px + 2vmin);
+  color: white;
+}

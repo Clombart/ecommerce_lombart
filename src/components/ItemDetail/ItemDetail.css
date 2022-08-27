@@ -1,0 +1,23 @@
+.container-detail {
+    flex-direction: row !important;
+    align-items: center;
+    justify-items: center;
+    width: 40vw !important;
+    margin: 2rem auto;
+    padding: 0;
+}
+
+.price {
+    font-size: large;
+}
+
+.form-control {
+    border-color: #ffc107 !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .container-detail {
+        flex-direction: column !important;
+        width: 60vw !important;
+    }
+}
