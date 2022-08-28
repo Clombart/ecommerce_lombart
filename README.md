@@ -4,7 +4,7 @@
 Chocolate Dreams Es un ecommerce ficticio de venta de Chocolates
 
 ### Repo en GitHub:
-https://github.com/Clombart/ecommerce-lombart
+https://github.com/Clombart/ecommerce_lombart
 
 ## Dependecias utilizadas:
 
@@ -21,3 +21,4 @@ https://github.com/Clombart/ecommerce-lombart
 | Netlify | [plugins/medium/README.md][PlMe] |
 
 ## Demo: https://drive.google.com/file/d/1nfcwU_u2thNzHcCl81GP0ao3HDpOUJj3/view?usp=sharing
+## Demo en netlify (sin funcionar): https://lucent-flan-2abc43.netlify.app 
